@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Maruf &ldquo;Abrar&rdquo; . 😁</h1>
-<h2 align="center">I'm Software enginering student in African Leadership X 👨‍💻, also I'm Content Creatore on Upwork 🎥</h2> 
+<h2 align="center">I'm Software enginering student in African Leadership X 👨‍💻, also I'm Content Creatore on Upwork 🎥.</h2> 
 <center><img src="https://github.com/MarufAbrar/MarufAbrar/blob/main/giphy.gif"/></center>
 
 - 🔭 I’m currently working on [an Digital Cash System.]
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MarufAbrar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emediongfrancis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marufabrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emediongfrancis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maruf-abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emediongfrancis" height="30" width="40" /></a>
 <a href="https://www.facebook.com/marufabrar02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emediongfrancis15" height="30" width="40" /></a>
 <a href="https://instagram.com/MarufAbrar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emediongfranciso" height="30" width="40" /></a>
 </p>
