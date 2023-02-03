@@ -1,16 +1,16 @@
 
 
-<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Maruf &ldquo;Abrar&rdquo; . 😁</h1>
+<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Maruf . 😁</h1>
 <h2 align="center">I'm Software enginering student in African Leadership X 👨‍💻, also I'm Content Creatore on Upwork 🎥</h2> 
 <center><img src="https://github.com/MarufAbrar/MarufAbrar/blob/main/giphy.gif"/></center>
 
 - 🔭 I’m currently working on [an Digital Cash System.]
 
-- 🌱 I’m currently learning **Artificial intelligence and data Science .**
+- 🌱 I’m currently learning **Artificial intelligence and deep learning .**
 
 - 👯 I’m looking to collaborate on **Digital Cash System project .**
 
-- 💬 Ask me about **Graphic design , Algorithm , Artificial intelligence.**
+- 💬 Ask me about **Graphic design ,Web Development, machine learning, Algorithm , Artificial intelligence...**
 
 - 📫 How to reach me: **maracode1@gmail.com**
 <br>
