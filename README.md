@@ -25,6 +25,6 @@
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emediongfrancis&show_icons=true&theme=radical&locale=en" alt="MarufAbrar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarufAbrar&show_icons=true&theme=radical&locale=en" alt="MarufAbrar" /></p>
 
 
