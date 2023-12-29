@@ -1,5 +1,5 @@
 <h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Maruf. 😁</h1>
-<h2 align="center">I'm a Computer Science student at the University of People👨‍💻 and a certified backend web developer from ALX</h2> 
+<h2 align="center">I'm a Computer Science student at the University of People👨‍💻 Proven Software Engineer | Student Innovation Catalyst |</h2> 
 <!-- <center><img src="https://github.com/MarufAbrar/MarufAbrar/blob/main/giphy.gif"/></center> -->
 
 - 🔭 I’m currently working on [Augmented-reality Shopping app]
