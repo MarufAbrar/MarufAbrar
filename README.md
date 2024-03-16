@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Augemnted-reality Technology, PHP, Laravel, Firebase, Web Development, machine learning, Algorithm , Artificial intelligence...**
 
-- 📫 How to reach me: **maracode1@gmail.com**
+- 📫 How to reach me: **MarufAbdela@my.uopeople.edu**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
