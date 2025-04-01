@@ -1,23 +1,21 @@
-<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Maruf. 😁</h1>
-<h2 align="center">I'm a Computer Science student at the University of People👨‍💻, Proven Software Engineer</h2> 
-<!-- <center><img src="https://github.com/MarufAbrar/MarufAbrar/blob/main/giphy.gif"/></center> -->
+# 💫 About Me:
+🔭 I’m currently working on an augmented reality shopping app with virtual try-on features.<br><br>🤝 I’m looking to collaborate on AR-based eCommerce solutions.<br><br>🛠️ I’m looking for help with integrating AR technology into eCommerce platforms and optimizing performance for real-time virtual try-ons.<br><br>📚 I’m currently learning blockchain development, smart contracts, and decentralized applications (DApps).<br><br>💡 Ask me about full-stack web development, PHP/Laravel, WordPress, Elementor Pro, eCommerce development, and teaching programming concepts.<br><br>🎉 Fun fact: I love playing soccer, I take moringa every day, and I’m working towards Monk Mode for better focus and productivity. 😎
 
-- 🔭 I’m currently working on [Augmented-reality Shopping app]
 
-- 🌱 I’m currently learning **Artificial intelligence and deep learning .**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ops_gen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruf-abrar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15877131) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maracode1@gmail.com) 
 
-- 👯 I’m looking to collaborate on **[Augmented-reality Shopping app] **
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=marufabrar&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=marufabrar&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marufabrar&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 💬 Ask me about **Augemnted-reality Technology, PHP, Laravel, Firebase, Web Development, machine learning, Algorithm , Artificial intelligence...**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=marufabrar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 📫 How to reach me: **MarufAbdela@my.uopeople.edu**
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MarufAbrar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emediongfrancis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maruf-abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emediongfrancis" height="30" width="40" /></a>
-<a href="https://www.facebook.com/marufabrar02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emediongfrancis15" height="30" width="40" /></a>
-<a href="https://instagram.com/MarufAbrar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emediongfranciso" height="30" width="40" /></a>
-</p>
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=marufabrar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
