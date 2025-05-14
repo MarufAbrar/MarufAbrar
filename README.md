@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on an augmented reality shopping app with virtual try-on features.<br><br>🤝 I’m looking to collaborate on AR-based eCommerce solutions.<br><br>🛠️ I’m looking for help with integrating AR technology into eCommerce platforms and optimizing performance for real-time virtual try-ons.<br><br>📚 I’m currently learning blockchain development, smart contracts, and decentralized applications (DApps).<br><br>💡 Ask me about full-stack web development, PHP/Laravel, WordPress, Elementor Pro, eCommerce development, and teaching programming concepts.<br><br>🎉 Fun fact: I love playing soccer, I take moringa every day, and I’m working towards Monk Mode for better focus and productivity. 😎
 
+[![committers.top badge](https://user-badge.committers.top/ethiopia/USERNAME.svg)](https://user-badge.committers.top/ethiopia/USERNAME)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ops_gen/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maruf-abrar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15877131) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maracode1@gmail.com) 
