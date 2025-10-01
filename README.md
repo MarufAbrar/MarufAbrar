@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥇 I’m currently ranked #1 on Committers.Top Ethiopia &nbsp; [![committers.top badge](https://user-badge.committers.top/ethiopia/MarufAbrar.svg)](https://user-badge.committers.top/ethiopia/MarufAbrar)
+🥇 I’m currently ranked #4 on Committers.Top Ethiopia &nbsp; [![committers.top badge](https://user-badge.committers.top/ethiopia/MarufAbrar.svg)](https://user-badge.committers.top/ethiopia/MarufAbrar)
 <br>
 
 🔭 I’m currently working on an augmented reality shopping app with virtual try-on features.<br><br>🤝 I’m looking to collaborate on AR-based eCommerce solutions.<br><br>🛠️ I’m looking for help with integrating AR technology into eCommerce platforms and optimizing performance for real-time virtual try-ons.<br><br>📚 I’m currently learning blockchain development, smart contracts, and decentralized applications (DApps).<br><br>💡 Ask me about full-stack web development, PHP/Laravel, WordPress, Elementor Pro, eCommerce development, and teaching programming concepts.<br><br>🎉 Fun fact: I love playing soccer, I take moringa every day, and I’m working towards Monk Mode for better focus and productivity. 😎
